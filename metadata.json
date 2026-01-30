@@ -1,0 +1,5 @@
+{
+  "name": "Snake Path Logic",
+  "description": "A mentally challenging puzzle game where you must trace snake paths and clear the board. Each snake represents a fixed directional path. Predict outcomes, avoid collisions, and use pure logic to solve the maze.",
+  "requestFramePermissions": []
+}
